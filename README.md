@@ -1,13 +1,7 @@
-![graphik](assets/graphik-logo.jpg)
 
+SkyBase is a client-first decentralized DBMS for building secure dapp and Web3 projects in any langauge and for any platform; mobile, web, desktop and IoT.
 
-https://graphikdb.github.io/graphik/
-
-[![GoDoc](https://godoc.org/github.com/graphikDB/graphik?status.svg)](https://godoc.org/github.com/graphikDB/graphik)
-
-Graphik is a Backend as a Service implemented as an identity-aware, permissioned, persistant document/graph database & pubsub server written in Go.
-
-Support: support@graphikdb.io
+Skybase is a fork of https://graphikdb.github.io/graphik/
 
 ## Quick Start
 
