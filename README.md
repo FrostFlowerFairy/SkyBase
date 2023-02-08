@@ -7,8 +7,8 @@ Skybase is a fork of https://graphikdb.github.io/graphik/
 
 Download sample .env & docker-compose file for configuration:
 ```
-curl https://raw.githubusercontent.com/graphikDB/graphik/master/.sample.env >> .env
-curl https://raw.githubusercontent.com/graphikDB/graphik/master/docker-compose.yml >> docker-compose.yml
+curl https://raw.githubusercontent.com/artflake/SkyBase/master/.sample.env >> .env
+curl https://raw.githubusercontent.com/artflake/SkyBase/master/docker-compose.yml >> docker-compose.yml
 
 ```
 
