@@ -1,7 +1,7 @@
 
 SkyBase is a decentralized database for building secure dapp and Web3 projects in any langauge and for any platform; mobile, web, desktop, datacenter, and IoT.
 
-Skybase is a fork of https://graphikdb.github.io/graphik/ and uses CRDT replication similar to Riak and OrbitDB.
+Skybase is a fork of graphik, we added the use of CRDT replication similar to Riak and OrbitDB to allow for scaling this database to meet the needs of the masses.
 
 ## Quick Start
 
